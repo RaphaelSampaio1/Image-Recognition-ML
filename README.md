@@ -67,9 +67,6 @@ Here’s an example of the result:
 - For each detected face, it draws a **black square** around the face.
 - The lines of the square are **thicker** for better visibility.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -79,6 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you need any further modifications or explanations, feel free to reach out!
 
----
 
-You can replace `your-username` in the clone command with your GitHub username and feel free to modify any sections to match your repository’s specifics.
